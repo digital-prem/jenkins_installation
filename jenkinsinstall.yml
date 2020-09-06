@@ -1,0 +1,8 @@
+-
+  name: install jenkins
+  hosts: all
+  become: yes
+  tasks:
+  - 
+    name: install java
+    script : jenkinsinstall.sh 

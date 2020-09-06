@@ -1,0 +1,2 @@
+#server details
+webserver1 ansible_ssh_host=54.174.227.6 ansible_ssh_port=22 ansible_ssh_user=ubuntu ansible_ssh_private_key_file=./abc.pem
